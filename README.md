@@ -15,6 +15,6 @@ Analysis:
 
 Comparing the total number of patents granted by origin of inventors within the US, we can see that California residents receive the largest number of patents, followed by Texas, Washington, and states around the Great Lakes. The “fly-over” states receive the least patents. However, if we consider patents granted per thousand residents, while California is still among the most innovative, Washington, Oregon, Idaho are actually as competitive. Vermont and New Hampshire, although small in population, leads the US in per capita patent granted.
 
-The median time from application to grant decrease year by year in the last decade, from 1232 days in 2010 to 817 days in 2018. 
+The median time from application to grant decrease year by year in the last decade, from 1232 days in 2010 to 821 days in 2017. 
 
 Moving forward, I will use logistic regressions and Tobit model to predict the expected length of patent granting process.
