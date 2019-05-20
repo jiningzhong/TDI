@@ -17,4 +17,4 @@ Comparing the total number of patents granted by origin of inventors within the 
 
 The median time from application to grant decrease year by year in the last decade, from 1232 days in 2010 to 821 days in 2017. 
 
-Moving forward, I will use logistic regressions and Tobit model to predict the expected length of patent granting process.
+Moving forward, I will use logistic regressions to predict whether a patent application is likely to be approved within three years and a Tobit model to predict the expected length of patent granting process.
